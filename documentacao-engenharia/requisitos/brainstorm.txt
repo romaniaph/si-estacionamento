@@ -1,0 +1,9 @@
+
+exercício brainstorm
+
+- Colocar câmeras para ver quem desrespeita a demarcação e amassa/prejudica o veículo alheio.
+- Colocar sensores em cada vaga do estacionamento que indica quanto tempo ele ficou, quais vagas estão disponíveis, e essa informação fica disponível na saída e entrada pra verificação de informações.
+- Com um sistema integrado que funcione no celular dos manobristas e no sistema da empresa. que regularize e indique as vagas disponíveis, as informações das mesmas, que possa organizar o estacionamento.
+- Comanda quando entrar, que o cliente leva e possa validar na saída.
+- Integrar com uma máquina de cartões.
+- Colocar um limite de carros de acordo com as vagas para evitar a superlotação.
